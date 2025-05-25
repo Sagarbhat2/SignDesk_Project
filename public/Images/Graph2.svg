@@ -1,0 +1,289 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="560" height="351.921" viewBox="0 0 560 351.921">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_8601" data-name="Rectangle 8601" width="560" height="351.921" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_8551" data-name="Rectangle 8551" width="117.445" height="351.921" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-25">
+      <path id="Path_78924" data-name="Path 78924" d="M217.229,0c-2.08,0-4.2.15-6.149.159l-24.3.228L110.743.195,35.5.325,14.4.349c-.726,0-1.54-.025-2.393-.053A23.4,23.4,0,0,0,5.08.722,11.766,11.766,0,0,0,2.565,2.877,8.756,8.756,0,0,0,.325,8.763C.039,13.638.252,18.655.245,23.541L.209,50.967l-.1,87.76-.075,74.38L.09,235.214C.1,237.475,0,239.822,0,242.141v.3c0,1.333.037,2.655.139,3.946a4.89,4.89,0,0,0,2.131,3.388c1.636,1.126,7.191.609,9.191.6l27.6-.1,82.324-.169,71.36-.376,21.695-.062c1.113,0,2.243.02,3.38.04,2.454.045,4.936.089,7.33-.088a3.755,3.755,0,0,0,2.826-1.284,2.069,2.069,0,0,0,.532-1.528c.582-9.456.151-19.2.163-28.682l.1-52.767V51.578l-.108-31.846c-.036-3.866.451-8.82-.294-12.583a9.1,9.1,0,0,0-4.21-5.931,5.685,5.685,0,0,0-1.773-.726l-.441-.1A22.919,22.919,0,0,0,217.408,0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-26">
+      <rect id="Rectangle_23243" data-name="Rectangle 23243" width="228.818" height="250.5" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-27">
+      <path id="Path_78965" data-name="Path 78965" d="M109.671,64.936c-2.92,1.491-5,2.679-6.083,5.994a9.386,9.386,0,0,0,.62,7.646,9.518,9.518,0,0,0,6.334,4.78,12.456,12.456,0,0,0,5.131-.052c3.141-1.548,5.386-3.218,6.5-6.675a9.229,9.229,0,0,0-.844-6.589,9.879,9.879,0,0,0-5.985-5.11,7.885,7.885,0,0,0-2.255-.287,29.369,29.369,0,0,0-3.419.293" transform="translate(-103.055 -64.643)" fill="#d5de47"/>
+    </clipPath>
+  </defs>
+  <g id="Group_56980" data-name="Group 56980" transform="translate(-683 -2464)">
+    <g id="Group_4736" data-name="Group 4736" transform="translate(683 2464)">
+      <g id="Group_24296" data-name="Group 24296" clip-path="url(#clip-path)">
+        <g id="Group_24249" data-name="Group 24249">
+          <g id="Group_24248" data-name="Group 24248" clip-path="url(#clip-path)">
+            <path id="Path_70192" data-name="Path 70192" d="M544.927,351.921H15.073A15.073,15.073,0,0,1,0,336.848V15.073A15.073,15.073,0,0,1,15.073,0H544.927A15.073,15.073,0,0,1,560,15.073V336.848a15.073,15.073,0,0,1-15.073,15.073" fill="#f2f5fa"/>
+            <path id="Path_70193" data-name="Path 70193" d="M560,31.937H0V15.073A15.073,15.073,0,0,1,15.073,0H544.927A15.073,15.073,0,0,1,560,15.073Z" fill="#cad546"/>
+            <g id="Group_24247" data-name="Group 24247" style="mix-blend-mode: multiply;isolation: isolate">
+              <g id="Group_24246" data-name="Group 24246">
+                <g id="Group_24245" data-name="Group 24245" clip-path="url(#clip-path-3)">
+                  <path id="Path_70194" data-name="Path 70194" d="M117.445,351.921H15.072A15.072,15.072,0,0,1,0,336.848V15.073A15.072,15.072,0,0,1,15.072,0H117.445Z" fill="#d5de47"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_24251" data-name="Group 24251">
+          <g id="Group_24250" data-name="Group 24250" clip-path="url(#clip-path)">
+            <path id="Path_70195" data-name="Path 70195" d="M27.018,127.721l-1.148-1-3.281,2.812a.667.667,0,0,0,.458.18H30.99a.666.666,0,0,0,.456-.18l-3.28-2.812Z" transform="translate(-2.781 -15.6)"/>
+            <path id="Path_70196" data-name="Path 70196" d="M31.447,122.752a.667.667,0,0,0-.458-.179H23.046a.659.659,0,0,0-.456.181l4.427,3.8Z" transform="translate(-2.781 -15.09)"/>
+            <path id="Path_70197" data-name="Path 70197" d="M22.35,123.236v5.505l3.2-2.721Z" transform="translate(-2.751 -15.171)"/>
+            <path id="Path_70198" data-name="Path 70198" d="M29.277,126.019l3.2,2.721v-5.507Z" transform="translate(-3.604 -15.171)"/>
+            <path id="Path_70199" data-name="Path 70199" d="M28.2,159.472a1.877,1.877,0,1,0-2.024,0,2.4,2.4,0,0,0-2.187,2.392v1.948l.005.031.134.042a10.942,10.942,0,0,0,3.266.526,6.722,6.722,0,0,0,2.853-.535l.125-.064h.013v-1.948a2.4,2.4,0,0,0-2.186-2.392" transform="translate(-2.954 -26.207)"/>
+            <path id="Path_70200" data-name="Path 70200" d="M31.444,230.55l-2.8-5.474a1.861,1.861,0,0,0-3.313,0l-2.8,5.474a1.861,1.861,0,0,0,1.656,2.709h5.607a1.86,1.86,0,0,0,1.656-2.709m-4.941-4h.972v1.4q0,.626-.045,1.145c-.03.347-.068.7-.113,1.048h-.648q-.075-.529-.12-1.051t-.046-1.142Zm.912,5.153a.635.635,0,0,1-.856,0,.562.562,0,0,1-.176-.429.574.574,0,0,1,.176-.433.623.623,0,0,1,.856,0,.581.581,0,0,1,.173.433.569.569,0,0,1-.173.429" transform="translate(-2.719 -24.584)"/>
+            <path id="Path_70201" data-name="Path 70201" d="M26.566,195.061h4.445a4.445,4.445,0,1,1-4.445-4.444Z" transform="translate(-2.523 -37.467)"/>
+            <path id="Path_70202" data-name="Path 70202" d="M28.333,194.2h4.444a4.445,4.445,0,0,0-4.444-4.444Z" transform="translate(-3.288 -37.361)"/>
+            <path id="Path_70203" data-name="Path 70203" d="M27.385,85.642a.686.686,0,0,0-1.036,0l-4.983,5.73h2.062v4.159a.677.677,0,0,0,.678.678H29.63a.678.678,0,0,0,.677-.678V91.372h2.062Zm.454,10.188H25.9V93.758a.972.972,0,0,1,1.944,0Z" transform="translate(-2.63 -10.514)"/>
+            <path id="Path_70204" data-name="Path 70204" d="M606.8,15.791A10.086,10.086,0,1,1,596.719,5.706,10.085,10.085,0,0,1,606.8,15.791" transform="translate(-72.22 -0.702)" fill="#fdfeff"/>
+            <path id="Path_70205" data-name="Path 70205" d="M599.211,18.843a3.587,3.587,0,1,0-3.869,0,4.6,4.6,0,0,0-4.179,4.572V24.6a10.034,10.034,0,0,0,12.226,0V23.415a4.6,4.6,0,0,0-4.178-4.572" transform="translate(-72.778 -1.507)" fill="#e7e6e8"/>
+          </g>
+        </g>
+        <text id="Overview" transform="translate(134.208 63.586)" fill="#0c0c4f" font-size="13" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">O</tspan><tspan y="0" letter-spacing="-0.014em">v</tspan><tspan y="0">e</tspan><tspan y="0" letter-spacing="0.015em">r</tspan><tspan y="0">vi</tspan><tspan y="0" letter-spacing="-0.009em">e</tspan><tspan y="0">w</tspan></text>
+        <g id="Group_24253" data-name="Group 24253">
+          <g id="Group_24252" data-name="Group 24252" clip-path="url(#clip-path)">
+            <path id="Path_70206" data-name="Path 70206" d="M255.324,24.746h-99.31a6.658,6.658,0,0,1-6.658-6.658V15.809a6.658,6.658,0,0,1,6.658-6.658h99.31a6.659,6.659,0,0,1,6.658,6.658v2.278a6.658,6.658,0,0,1-6.658,6.658" transform="translate(-18.387 -1.127)" fill="#fdfeff"/>
+          </g>
+        </g>
+        <text id="Search" transform="translate(140.465 16.594)" fill="#848484" font-size="5" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">S</tspan><tspan y="0" letter-spacing="-0.014em">e</tspan><tspan y="0">a</tspan><tspan y="0" letter-spacing="-0.015em">r</tspan><tspan y="0" letter-spacing="-0.009em">c</tspan><tspan y="0">h</tspan></text>
+        <g id="Group_24255" data-name="Group 24255">
+          <g id="Group_24254" data-name="Group 24254" clip-path="url(#clip-path)">
+            <path id="Path_70207" data-name="Path 70207" d="M267.286,20.494,265.7,18.912a3.037,3.037,0,0,1-.914.914l1.582,1.582a.646.646,0,0,0,.914-.914" transform="translate(-32.598 -2.328)" fill="#848484"/>
+            <path id="Path_70208" data-name="Path 70208" d="M265.16,16.7a2.585,2.585,0,1,0-2.585,2.585A2.585,2.585,0,0,0,265.16,16.7m-2.585,1.939a1.939,1.939,0,1,1,1.939-1.939,1.941,1.941,0,0,1-1.939,1.939" transform="translate(-32.007 -1.737)" fill="#848484"/>
+            <rect id="Rectangle_8555" data-name="Rectangle 8555" width="15.105" height="1.034" transform="translate(13.387 11.473)" fill="#b1adde"/>
+            <rect id="Rectangle_8556" data-name="Rectangle 8556" width="15.105" height="1.034" transform="translate(13.387 14.947)" fill="#b1adde"/>
+            <rect id="Rectangle_8557" data-name="Rectangle 8557" width="15.105" height="1.034" transform="translate(13.387 18.421)" fill="#b1adde"/>
+          </g>
+        </g>
+        <text id="Hi_Asher_Sauer" data-name="Hi, Asher Sauer" transform="translate(447.563 18.833)" fill="#fff" font-size="8" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Hi, Asher Sauer</tspan></text>
+        <text id="Messages" transform="translate(36.782 112.243)" font-size="7" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Messages</tspan></text>
+        <text id="Dashboard" transform="translate(36.782 83.72)" font-size="7" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Dashboa</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">d</tspan></text>
+        <text id="Account" transform="translate(36.782 135.673)" font-size="7" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.004em">A</tspan><tspan y="0" letter-spacing="-0.01em">cc</tspan><tspan y="0">ount</tspan></text>
+        <text id="Chart" transform="translate(36.782 159.095)" font-size="7" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Cha</tspan><tspan y="0" letter-spacing="0.015em">r</tspan><tspan y="0">t</tspan></text>
+        <text id="Calendar" transform="translate(36.782 182.518)" font-size="7" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.009em">C</tspan><tspan y="0">alendar</tspan></text>
+        <text id="Reports" transform="translate(36.782 205.939)" font-size="7" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Repo</tspan><tspan y="0" letter-spacing="0.015em">r</tspan><tspan y="0">ts</tspan></text>
+        <g id="Group_24257" data-name="Group 24257">
+          <g id="Group_24256" data-name="Group 24256" clip-path="url(#clip-path)">
+            <path id="Path_70209" data-name="Path 70209" d="M102.7,130.852H94.037a1.1,1.1,0,0,1-1.1-1.1v-8a1.1,1.1,0,0,1,1.1-1.1H102.7a1.1,1.1,0,0,1,1.1,1.1v8a1.1,1.1,0,0,1-1.1,1.1" transform="translate(-11.441 -14.853)" fill="#1ddba9"/>
+          </g>
+        </g>
+        <text id="_3" data-name="3" transform="translate(85.093 112.435)" fill="#fff" font-size="7" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">3</tspan></text>
+        <g id="Group_24259" data-name="Group 24259">
+          <g id="Group_24258" data-name="Group 24258" clip-path="url(#clip-path)">
+            <path id="Path_70210" data-name="Path 70210" d="M587.48,166.774H426.06a6.6,6.6,0,0,1-6.6-6.6V97.2a6.6,6.6,0,0,1,6.6-6.6H587.48a6.6,6.6,0,0,1,6.6,6.6v62.981a6.6,6.6,0,0,1-6.6,6.6" transform="translate(-51.64 -11.154)" fill="#fff"/>
+          </g>
+        </g>
+        <text id="_3_124" data-name="$ 3,124" transform="translate(388.983 137.244)" fill="#1ddba9" font-size="7" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">$ 3</tspan><tspan y="0" letter-spacing="-0.009em">,</tspan><tspan y="0">1</tspan><tspan y="0" letter-spacing="-0.029em">2</tspan><tspan y="0">4</tspan></text>
+        <text id="_lorem_ipsum_dolor" data-name="*lorem ipsum dolor" transform="translate(387.974 144.973)" fill="#617087" font-size="2" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="0.02em">*</tspan><tspan y="0">lo</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">em ipsum dolor</tspan></text>
+        <text id="_lorem_ipsum_dolor-2" data-name="*lorem ipsum dolor" transform="translate(439.675 144.973)" fill="#617087" font-size="2" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="0.02em">*</tspan><tspan y="0">lo</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">em ipsum dolor</tspan></text>
+        <text id="_1_340_230" data-name="1,340,230" transform="translate(435.275 136.391)" fill="#1ddba9" font-size="7" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">1</tspan><tspan y="0" letter-spacing="0.01em">,</tspan><tspan y="0">34</tspan><tspan y="0" letter-spacing="-0.009em">0</tspan><tspan y="0" letter-spacing="0.01em">,</tspan><tspan y="0">230</tspan></text>
+        <text id="_lorem_ipsum_dolor-3" data-name="*lorem ipsum dolor" transform="translate(493.229 142.926)" fill="#617087" font-size="2" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="0.02em">*</tspan><tspan y="0">lo</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">em ipsum dolor</tspan></text>
+        <text id="_135_020" data-name="135,020" transform="translate(492.129 136.391)" fill="#1ddba9" font-size="7" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">1</tspan><tspan y="0" letter-spacing="-0.009em">3</tspan><tspan y="0">5</tspan><tspan y="0" letter-spacing="-0.009em">,</tspan><tspan y="0">0</tspan><tspan y="0" letter-spacing="-0.005em">2</tspan><tspan y="0">0</tspan></text>
+        <text id="Downloads" transform="translate(441.323 106.286)" fill="#617087" font-size="4" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">D</tspan><tspan y="0" letter-spacing="-0.014em">o</tspan><tspan y="0">wnloads</tspan></text>
+        <text id="Earnings" transform="translate(392.591 106.286)" fill="#617087" font-size="4" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.009em">E</tspan><tspan y="0">a</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">nings</tspan></text>
+        <text id="Favorites" transform="translate(497.819 106.286)" fill="#617087" font-size="4" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.025em">F</tspan><tspan y="0" letter-spacing="-0.009em">a</tspan><tspan y="0" letter-spacing="-0.014em">v</tspan><tspan y="0">o</tspan><tspan y="0" letter-spacing="-0.01em">r</tspan><tspan y="0" letter-spacing="-0.019em">it</tspan><tspan y="0">es</tspan></text>
+        <g id="Group_24261" data-name="Group 24261">
+          <g id="Group_24260" data-name="Group 24260" clip-path="url(#clip-path)">
+            <path id="Path_70211" data-name="Path 70211" d="M464.37,135.6c0,1.955-1.483,3.113-3.536,3.373V141.4H458.96v-2.428a7.807,7.807,0,0,1-4.091-1.744l1.027-2.1a6.756,6.756,0,0,0,4.042,1.712c1.059,0,1.7-.392,1.7-1.093,0-2.151-6.079-.9-6.079-4.938,0-1.792,1.336-3.015,3.407-3.309v-2.314h1.874v2.3a7.763,7.763,0,0,1,3.471,1.19l-.994,2.134a7.952,7.952,0,0,0-3.553-1.173c-.864,0-1.45.31-1.45.929,0,2.1,6.079.929,6.063,5.036" transform="translate(-55.999 -15.412)" fill="#4a3dff"/>
+            <path id="Path_70212" data-name="Path 70212" d="M522.1,134.452v-6.843h-5.22v6.843h-2.318l4.928,5.9,4.928-5.9Z" transform="translate(-63.347 -15.71)" fill="#4a3dff"/>
+            <path id="Path_70213" data-name="Path 70213" d="M578.456,126.207l1.9,4.578,4.94.391-3.767,3.221,1.155,4.82-4.228-2.588-4.227,2.588,1.155-4.82-3.767-3.221,4.94-.391Z" transform="translate(-70.371 -15.537)" fill="#4a3dff"/>
+          </g>
+        </g>
+        <text id="Calculation" transform="translate(380.068 90.207)" fill="#617087" font-size="5" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.009em">C</tspan><tspan y="0">alculation</tspan></text>
+        <g id="Group_24271" data-name="Group 24271">
+          <g id="Group_24270" data-name="Group 24270" clip-path="url(#clip-path)">
+            <path id="Path_70270" data-name="Path 70270" d="M525.489,310.283H426.06a6.6,6.6,0,0,1-6.6-6.6V189.118a6.6,6.6,0,0,1,6.6-6.6h99.429a6.6,6.6,0,0,1,6.6,6.6V303.687a6.6,6.6,0,0,1-6.6,6.6" transform="translate(-51.64 -22.47)" fill="#fff"/>
+          </g>
+        </g>
+        <text id="Analitycal" transform="translate(376.86 173.73)" fill="#848484" font-size="5" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Analitycal</tspan></text>
+        <text id="Lorem_ipsum" data-name="Lorem ipsum" transform="translate(376.86 188.33)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.009em">L</tspan><tspan y="0">o</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">em ipsum</tspan></text>
+        <text id="_98_" data-name="98%" transform="translate(462.734 188.33)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">9</tspan><tspan y="0" letter-spacing="-0.01em">8</tspan><tspan y="0">%</tspan></text>
+        <text id="Dolor_sit" data-name="Dolor sit" transform="translate(376.859 198.713)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Dolor s</tspan><tspan y="0" letter-spacing="-0.02em">i</tspan><tspan y="0">t</tspan></text>
+        <text id="_50_" data-name="50%" transform="translate(462.734 198.713)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">50%</tspan></text>
+        <g id="Group_24273" data-name="Group 24273">
+          <g id="Group_24272" data-name="Group 24272" clip-path="url(#clip-path)">
+            <rect id="Rectangle_8581" data-name="Rectangle 8581" width="24.641" height="2.631" transform="translate(409.365 197.867)" fill="#1ddba9"/>
+          </g>
+        </g>
+        <text id="Consectetuer" transform="translate(376.86 209.093)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.024em">C</tspan><tspan y="0">onse</tspan><tspan y="0" letter-spacing="0.005em">c</tspan><tspan y="0" letter-spacing="-0.019em">t</tspan><tspan y="0">etuer</tspan></text>
+        <text id="_20_" data-name="20%" transform="translate(462.734 209.093)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.004em">2</tspan><tspan y="0">0%</tspan></text>
+        <g id="Group_24275" data-name="Group 24275">
+          <g id="Group_24274" data-name="Group 24274" clip-path="url(#clip-path)">
+            <rect id="Rectangle_8583" data-name="Rectangle 8583" width="5.974" height="2.631" transform="translate(409.365 208.248)" fill="#4a3dff"/>
+            <rect id="Rectangle_8584" data-name="Rectangle 8584" width="48.339" height="2.631" transform="translate(409.366 187.49)" fill="#4a3dff"/>
+          </g>
+        </g>
+        <text id="Adipiscing" transform="translate(376.86 219.475)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.004em">A</tspan><tspan y="0">dipis</tspan><tspan y="0" letter-spacing="-0.009em">c</tspan><tspan y="0">ing</tspan></text>
+        <text id="_45_" data-name="45%" transform="translate(462.734 219.475)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.005em">4</tspan><tspan y="0" letter-spacing="-0.009em">5</tspan><tspan y="0">%</tspan></text>
+        <g id="Group_24277" data-name="Group 24277">
+          <g id="Group_24276" data-name="Group 24276" clip-path="url(#clip-path)">
+            <rect id="Rectangle_8586" data-name="Rectangle 8586" width="22.513" height="2.631" transform="translate(409.365 218.629)" fill="#1ddba9"/>
+          </g>
+        </g>
+        <text id="Sed_Diam" data-name="Sed Diam" transform="translate(376.86 229.857)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Sed Diam</tspan></text>
+        <text id="_30_" data-name="30%" transform="translate(462.734 229.857)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">30%</tspan></text>
+        <g id="Group_24279" data-name="Group 24279">
+          <g id="Group_24278" data-name="Group 24278" clip-path="url(#clip-path)">
+            <rect id="Rectangle_8588" data-name="Rectangle 8588" width="11.408" height="2.631" transform="translate(409.365 229.011)" fill="#4a3dff"/>
+          </g>
+        </g>
+        <text id="Nonummy" transform="translate(376.86 240.239)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Nonum</tspan><tspan y="0" letter-spacing="-0.025em">m</tspan><tspan y="0">y</tspan></text>
+        <text id="_80_" data-name="80%" transform="translate(462.734 240.239)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">80%</tspan></text>
+        <g id="Group_24281" data-name="Group 24281">
+          <g id="Group_24280" data-name="Group 24280" clip-path="url(#clip-path)">
+            <rect id="Rectangle_8590" data-name="Rectangle 8590" width="38.345" height="2.631" transform="translate(409.365 239.393)" fill="#1ddba9"/>
+          </g>
+        </g>
+        <text id="Nibh_Euismod" data-name="Nibh Euismod" transform="translate(376.86 250.62)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Nibh </tspan><tspan y="0" letter-spacing="-0.01em">E</tspan><tspan y="0">uismod</tspan></text>
+        <text id="_39_" data-name="39%" transform="translate(462.734 250.62)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">39%</tspan></text>
+        <g id="Group_24283" data-name="Group 24283">
+          <g id="Group_24282" data-name="Group 24282" clip-path="url(#clip-path)">
+            <rect id="Rectangle_8592" data-name="Rectangle 8592" width="20.388" height="2.631" transform="translate(409.365 249.775)" fill="#4a3dff"/>
+          </g>
+        </g>
+        <text id="Ullamcorper" transform="translate(376.86 261.003)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Ullam</tspan><tspan y="0" letter-spacing="-0.009em">c</tspan><tspan y="0">o</tspan><tspan y="0" letter-spacing="-0.01em">r</tspan><tspan y="0">per</tspan></text>
+        <text id="_65_" data-name="65%" transform="translate(462.734 261.003)" fill="#848484" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">6</tspan><tspan y="0" letter-spacing="-0.009em">5</tspan><tspan y="0">%</tspan></text>
+        <g id="Group_24285" data-name="Group 24285">
+          <g id="Group_24284" data-name="Group 24284" clip-path="url(#clip-path)">
+            <rect id="Rectangle_8594" data-name="Rectangle 8594" width="31.964" height="2.631" transform="translate(409.365 260.157)" fill="#1ddba9"/>
+            <path id="Path_70271" data-name="Path 70271" d="M603.952,310.283h-44.09a6.6,6.6,0,0,1-6.6-6.6V189.118a6.6,6.6,0,0,1,6.6-6.6h44.09a6.6,6.6,0,0,1,6.6,6.6V303.687a6.6,6.6,0,0,1-6.6,6.6" transform="translate(-68.112 -22.47)" fill="#fff"/>
+            <path id="Path_70272" data-name="Path 70272" d="M583.917,219.257a14.317,14.317,0,1,1,14.316-14.317,14.333,14.333,0,0,1-14.316,14.317m0-26.377a12.06,12.06,0,1,0,12.06,12.06,12.073,12.073,0,0,0-12.06-12.06" transform="translate(-70.123 -23.468)" fill="#4a3dff"/>
+            <path id="Path_70273" data-name="Path 70273" d="M594.032,205.626A9.428,9.428,0,1,1,584.6,196.2a9.428,9.428,0,0,1,9.428,9.427" transform="translate(-70.81 -24.154)" fill="#4a3dff"/>
+          </g>
+        </g>
+        <text id="_75_" data-name="75%" transform="translate(508.514 181.928)" font-size="4" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.019em">7</tspan><tspan y="0" letter-spacing="-0.009em">5</tspan><tspan y="0">%</tspan></text>
+        <text id="_75_2" data-name="75%" transform="translate(508.514 181.928)" fill="#f2f5fa" font-size="4" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.019em">7</tspan><tspan y="0" letter-spacing="-0.009em">5</tspan><tspan y="0">%</tspan></text>
+        <text id="Your_Text_Here" data-name="Your Text Here" transform="translate(509.344 184.979)" fill="#f2f2f2" font-size="1" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.06em">Y</tspan><tspan y="0">our </tspan><tspan y="0" letter-spacing="-0.055em">T</tspan><tspan y="0" letter-spacing="-0.015em">e</tspan><tspan y="0">xt He</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">e</tspan></text>
+        <text id="Chart_01" data-name="Chart 01" transform="translate(505.462 201.46)" fill="#617087" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Cha</tspan><tspan y="0" letter-spacing="0.015em">r</tspan><tspan y="0">t 01</tspan></text>
+        <g id="Group_24287" data-name="Group 24287">
+          <g id="Group_24286" data-name="Group 24286" clip-path="url(#clip-path)">
+            <path id="Path_70274" data-name="Path 70274" d="M583.917,263.079a14.317,14.317,0,1,1,14.316-14.317,14.333,14.333,0,0,1-14.316,14.317m0-26.377a12.06,12.06,0,1,0,12.06,12.06,12.073,12.073,0,0,0-12.06-12.06" transform="translate(-70.123 -28.863)" fill="#1ddba9"/>
+            <path id="Path_70275" data-name="Path 70275" d="M594.032,249.448a9.428,9.428,0,1,1-9.428-9.427,9.429,9.429,0,0,1,9.428,9.427" transform="translate(-70.81 -29.549)" fill="#4a3dff"/>
+          </g>
+        </g>
+        <text id="_50_2" data-name="50%" transform="translate(508.514 220.356)" font-size="4" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">50%</tspan></text>
+        <text id="_50_3" data-name="50%" transform="translate(508.514 220.356)" fill="#f2f5fa" font-size="4" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">50%</tspan></text>
+        <text id="Your_Text_Here-2" data-name="Your Text Here" transform="translate(509.344 223.406)" fill="#f2f2f2" font-size="1" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.06em">Y</tspan><tspan y="0">our </tspan><tspan y="0" letter-spacing="-0.055em">T</tspan><tspan y="0" letter-spacing="-0.015em">e</tspan><tspan y="0">xt He</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">e</tspan></text>
+        <g id="Group_24289" data-name="Group 24289">
+          <g id="Group_24288" data-name="Group 24288" clip-path="url(#clip-path)">
+            <path id="Path_70276" data-name="Path 70276" d="M600.245,248.762a14.333,14.333,0,0,0-14.3-14.316V236.7a12.059,12.059,0,0,1,0,24.119v2.255a14.332,14.332,0,0,0,14.3-14.315" transform="translate(-72.135 -28.863)" fill="#4a3dff"/>
+          </g>
+        </g>
+        <text id="Chart_02" data-name="Chart 02" transform="translate(505.462 239.887)" fill="#617087" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Cha</tspan><tspan y="0" letter-spacing="0.015em">r</tspan><tspan y="0">t 02</tspan></text>
+        <g id="Group_24291" data-name="Group 24291">
+          <g id="Group_24290" data-name="Group 24290" clip-path="url(#clip-path)">
+            <path id="Path_70277" data-name="Path 70277" d="M583.917,306.9a14.317,14.317,0,1,1,14.316-14.317A14.333,14.333,0,0,1,583.917,306.9m0-26.377a12.06,12.06,0,1,0,12.06,12.06,12.073,12.073,0,0,0-12.06-12.06" transform="translate(-70.123 -34.257)" fill="#4a3dff"/>
+            <path id="Path_70278" data-name="Path 70278" d="M594.032,293.27a9.428,9.428,0,1,1-9.428-9.428,9.428,9.428,0,0,1,9.428,9.428" transform="translate(-70.81 -34.944)" fill="#4a3dff"/>
+          </g>
+        </g>
+        <text id="_96_" data-name="96%" transform="translate(508.514 258.782)" font-size="4" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">9</tspan><tspan y="0" letter-spacing="-0.02em">6</tspan><tspan y="0">%</tspan></text>
+        <text id="_96_2" data-name="96%" transform="translate(508.514 258.782)" fill="#f2f5fa" font-size="4" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">9</tspan><tspan y="0" letter-spacing="-0.02em">6</tspan><tspan y="0">%</tspan></text>
+        <text id="Your_Text_Here-3" data-name="Your Text Here" transform="translate(509.344 261.833)" fill="#f2f2f2" font-size="1" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.06em">Y</tspan><tspan y="0">our </tspan><tspan y="0" letter-spacing="-0.055em">T</tspan><tspan y="0" letter-spacing="-0.015em">e</tspan><tspan y="0">xt He</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">e</tspan></text>
+        <g id="Group_24293" data-name="Group 24293">
+          <g id="Group_24292" data-name="Group 24292" clip-path="url(#clip-path)">
+            <path id="Path_70279" data-name="Path 70279" d="M585.053,280.56V278.3c-.377.017-.752.041-1.122.086l.274,2.238c.279-.034.562-.053.847-.068" transform="translate(-71.887 -34.262)" fill="#1ddba9"/>
+          </g>
+        </g>
+        <text id="Chart_03" data-name="Chart 03" transform="translate(505.462 278.314)" fill="#617087" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Cha</tspan><tspan y="0" letter-spacing="0.015em">r</tspan><tspan y="0">t </tspan><tspan y="0" letter-spacing="-0.009em">0</tspan><tspan y="0">3</tspan></text>
+        <g id="Group_24295" data-name="Group 24295">
+          <g id="Group_24294" data-name="Group 24294" clip-path="url(#clip-path)">
+            <path id="Path_70280" data-name="Path 70280" d="M583.918,192.88c.078,0,.153.011.23.011v-2.256c-.077,0-.152-.011-.23-.011A14.331,14.331,0,0,0,569.6,204.863h2.256a12.071,12.071,0,0,1,12.056-11.983" transform="translate(-70.124 -23.468)" fill="#1ddba9"/>
+            <path id="Path_70281" data-name="Path 70281" d="M587.48,374.034H426.06a6.6,6.6,0,0,1-6.6-6.6V340.252a6.6,6.6,0,0,1,6.6-6.6H587.48a6.6,6.6,0,0,1,6.6,6.6v27.186a6.6,6.6,0,0,1-6.6,6.6" transform="translate(-51.64 -41.076)" fill="#fff"/>
+          </g>
+        </g>
+        <text id="Lorem_ipsum_dolor_sit_amet_consectetuer_adipiscing_elit_sed_" data-name="Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed " transform="translate(418.804 310.557) rotate(-0.245)" fill="#2c2e36" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0" letter-spacing="-0.009em">L</tspan><tspan y="0">o</tspan><tspan y="0" letter-spacing="-0.015em">r</tspan><tspan y="0">em ipsum dolor s</tspan><tspan y="0" letter-spacing="-0.02em">i</tspan><tspan y="0">t ame</tspan><tspan y="0" letter-spacing="0.009em">t</tspan><tspan y="0">, </tspan><tspan y="0" letter-spacing="-0.01em">c</tspan><tspan y="0">onse</tspan><tspan y="0" letter-spacing="0.005em">c</tspan><tspan y="0" letter-spacing="-0.02em">t</tspan><tspan y="0">etuer adipis</tspan><tspan y="0" letter-spacing="-0.01em">c</tspan><tspan y="0">ing el</tspan><tspan y="0" letter-spacing="-0.02em">i</tspan><tspan y="0" letter-spacing="0.01em">t</tspan><tspan y="0">, sed </tspan></text>
+        <text id="diam_nonummy_nibh_euismod_tincidunt_ut_laoreet_dolore_magna_" data-name="diam nonummy nibh euismod tincidunt ut laoreet dolore magna " transform="translate(418.822 314.691) rotate(-0.245)" fill="#2c2e36" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">diam nonum</tspan><tspan y="0" letter-spacing="-0.025em">m</tspan><tspan y="0">y nibh euismod tin</tspan><tspan y="0" letter-spacing="-0.01em">c</tspan><tspan y="0">idunt ut lao</tspan><tspan y="0" letter-spacing="-0.015em">r</tspan><tspan y="0">eet dolo</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0">e magna </tspan></text>
+        <text id="aliquam_erat_volutpat._Ut_wisi_enim_ad_minim_veniam_quis_" data-name="aliquam erat volutpat. Ut wisi enim ad minim veniam, quis " transform="translate(418.839 318.827) rotate(-0.245)" fill="#2c2e36" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">aliquam e</tspan><tspan y="0" letter-spacing="-0.035em">r</tspan><tspan y="0">at </tspan><tspan y="0" letter-spacing="-0.014em">v</tspan><tspan y="0">olutpa</tspan><tspan y="0" letter-spacing="0.009em">t</tspan><tspan y="0">. Ut wisi enim ad minim </tspan><tspan y="0" letter-spacing="-0.015em">v</tspan><tspan y="0">eniam, quis </tspan></text>
+        <text id="nostrud_exerci_tation_ullamcorper_suscipit_lobortis." data-name="nostrud exerci tation ullamcorper suscipit lobortis." transform="translate(418.857 322.963) rotate(-0.245)" fill="#2c2e36" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">nostrud </tspan><tspan y="0" letter-spacing="-0.014em">e</tspan><tspan y="0" letter-spacing="-0.019em">x</tspan><tspan y="0">e</tspan><tspan y="0" letter-spacing="-0.014em">r</tspan><tspan y="0" letter-spacing="-0.01em">c</tspan><tspan y="0">i </tspan><tspan y="0" letter-spacing="-0.019em">t</tspan><tspan y="0">ation ullam</tspan><tspan y="0" letter-spacing="-0.01em">c</tspan><tspan y="0">o</tspan><tspan y="0" letter-spacing="-0.01em">r</tspan><tspan y="0">per sus</tspan><tspan y="0" letter-spacing="-0.01em">c</tspan><tspan y="0">ip</tspan><tspan y="0" letter-spacing="-0.02em">i</tspan><tspan y="0">t lobo</tspan><tspan y="0" letter-spacing="0.014em">r</tspan><tspan y="0">tis.</tspan></text>
+        <text id="Recent_Update" data-name="Recent Update" transform="translate(418.796 303.502)" fill="#848484" font-size="4" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">Recent Update</tspan></text>
+        <text id="_01_12_2020" data-name="01/12/2020" transform="translate(380.447 310.914)" fill="#4a3dff" font-size="3" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">01</tspan><tspan y="0" letter-spacing="0.03em">/</tspan><tspan y="0">1</tspan><tspan y="0" letter-spacing="0.009em">2</tspan><tspan y="0">/</tspan><tspan y="0" letter-spacing="-0.004em">2</tspan><tspan y="0">0</tspan><tspan y="0" letter-spacing="-0.004em">2</tspan><tspan y="0">0</tspan></text>
+      </g>
+    </g>
+    <g id="Group_56628" data-name="Group 56628" transform="translate(813 2544.5)">
+      <g id="Group_56621" data-name="Group 56621">
+        <g id="Group_56620" data-name="Group 56620" clip-path="url(#clip-path-25)">
+          <rect id="Rectangle_23242" data-name="Rectangle 23242" width="322.362" height="330.762" transform="translate(-106.8 59.636) rotate(-29.179)" fill="#3b19eb"/>
+        </g>
+      </g>
+      <g id="Group_56623" data-name="Group 56623">
+        <g id="Group_56622" data-name="Group 56622" clip-path="url(#clip-path-26)">
+          <path id="Path_78925" data-name="Path 78925" d="M159.283,146.425l31.288-.007.173.431-31.213.228Z" transform="translate(29.859 27.447)" fill="#4a4abf"/>
+          <path id="Path_78926" data-name="Path 78926" d="M136.373,121.134l.532.248a9.564,9.564,0,0,0,3.542.279l8.273,0,37.844-.02,6.475,0a9.994,9.994,0,0,1,1.959,0c.29.115.45.432.676.647a11.569,11.569,0,0,1-4.224.33l-8.784-.025-31.084-.328c-5.658-.075-11.43-.365-17.08-.116Z" transform="translate(25.213 22.707)" fill="#4a4abf"/>
+          <path id="Path_78927" data-name="Path 78927" d="M11.974,108.274l2.034-.323a4.3,4.3,0,0,1,3.308,1.579,3.991,3.991,0,0,1,.7,3.047c-.217,1.7-1.16,2.482-2.489,3.434a4.892,4.892,0,0,1-1.522.427,4.08,4.08,0,0,1-3.261-1.541,4.9,4.9,0,0,1-1.018-3.361c.236-1.658,1.1-2.236,2.244-3.263" transform="translate(1.819 20.236)" fill="#fcfcfe"/>
+          <path id="Path_78928" data-name="Path 78928" d="M30.61,108.284a4.327,4.327,0,0,1,1.983-.374,4.078,4.078,0,0,1,3.228,1.6,4.2,4.2,0,0,1,.747,3.344,4.644,4.644,0,0,1-2.332,3.141,6.2,6.2,0,0,1-2.586.414,4.483,4.483,0,0,1-2.743-1.881,4.9,4.9,0,0,1-.556-3.631c.268-1.316,1.284-1.855,2.26-2.61" transform="translate(5.293 20.226)" fill="#fcfcfe"/>
+          <path id="Path_78929" data-name="Path 78929" d="M21.812,107.885a5.3,5.3,0,0,1,2.048-.12,4.536,4.536,0,0,1,2.938,1.972,4.412,4.412,0,0,1,.378,3.8,4.2,4.2,0,0,1-2.483,2.61,9.924,9.924,0,0,1-3.03.166,5.3,5.3,0,0,1-2.425-2.076,5.1,5.1,0,0,1-.227-3.781c.5-1.45,1.464-1.983,2.8-2.574" transform="translate(3.515 20.191)" fill="#fcfcfe"/>
+          <path id="Path_78930" data-name="Path 78930" d="M166.622,158.914a63.543,63.543,0,0,1,.044,13.311h-7.309l.069-12.662c2.1.045,5.416.541,7.2-.65" transform="translate(29.873 29.789)" fill="#252499"/>
+          <path id="Path_78931" data-name="Path 78931" d="M9.353,174.873l15.087.108-.11,20.1H9.29Z" transform="translate(1.741 32.781)" fill="#d5de47"/>
+          <path id="Path_78932" data-name="Path 78932" d="M174.226,110.363c.6-1.178.914-1.272,2.015-1.933,1.195.119,2.307.061,3.166,1.059,1.062,1.235.658,2.255.408,3.669-1.056,1.2-1.355,1.212-2.922,1.621a10.569,10.569,0,0,0-2.826-.717,14.308,14.308,0,0,0-2.682,1.44L163.61,119.8l-6.64,3.72-1.869,1.015-14.841,7.832c-1.288.685-4.283,1.846-4.971,3.086l-.031.718a5.451,5.451,0,0,1-1.2,3.483,4.481,4.481,0,0,1-3.532.328,9.421,9.421,0,0,1-1.452-1.347c-.356-.6-.3-1.637-.669-2.222-.35-.558-2.96-1.914-3.647-2.342l-17.538-10.383c-3.417-2.073-6.745-4.509-10.216-6.454l-.262.161a7.466,7.466,0,0,1-4.16.685L64.447,139.454c.251,1.5.436,2.079-.527,3.388a3.61,3.61,0,0,1-2.7,1.2c-1.9-.689-2.344-1.455-3.465-3.114l-12.733-2.839c-2.206-.52-5.513-1.744-7.695-1.193-1.109.988-1.386,1.516-2.938,1.48a5.716,5.716,0,0,1-2.522-.9l-6.982,5.524-.256-.125c1.5-1.5,5.294-4.423,6.2-6.195.336-.654-.218-2.1-.033-2.827a9.852,9.852,0,0,1,.983-1.738,4.794,4.794,0,0,1,3.349-1.027,4.608,4.608,0,0,1,2.8,3.016l.159.5c6.24,2.306,13.365,3.575,19.877,5.024a14.915,14.915,0,0,1,2.313-1.832c.622-.411,2.515-.21,3.255-.038l.517.128,27.659-21a5.077,5.077,0,0,1,.02-3.638c.555-1.374,1.925-1.937,3.179-2.534l.3-.141,2.449,2.223c.775,1.027.38,2.066.2,3.22,2.852,2.769,7.893,4.994,11.366,7.081,6.568,3.944,13.06,8.343,19.84,11.895l.855-.5a7.144,7.144,0,0,1,1.537-.9c1.268-.4,1.938.112,2.991.7l38.389-21.3c1.031-.633,1.159-1.524,1.4-2.616" transform="translate(4.617 20.326)" fill="#fcfcfe"/>
+          <path id="Path_78933" data-name="Path 78933" d="M49.907,166.47l13.853-.032-.147,30.34-14.743,0,0-29.441Z" transform="translate(9.16 31.2)" fill="#d5de47"/>
+          <path id="Path_78934" data-name="Path 78934" d="M107.076,173.606l.056-17.229c3.605-.228,7.295-.205,10.9-.143,1.469.025,2.976-.221,4.189.629l.164,3.258-.053,10.378.033,5.727-.059,22.514-15.191.026Z" transform="translate(20.072 29.279)" fill="#d5de47"/>
+          <path id="Path_78935" data-name="Path 78935" d="M165.475,159.321l.452-2.052c1.222-.718,2.736-.488,4.118-.489l10.45.051a3.156,3.156,0,0,1,1.28,2.54l-.02,39.168-16.279,0,.043-25.909a63.543,63.543,0,0,0-.044-13.311" transform="translate(31.019 29.383)" fill="#a2a1f8"/>
+          <path id="Path_78936" data-name="Path 78936" d="M30.731,155.555c3.9-.977,9.573-.236,13.624-.113l.048,30.47c-.008,3.9.654,9-.28,12.664l-1.7.23L28.783,198.8l.043-26.28c-.008-4.876-.641-10.609.37-15.36.217-1.02.68-1.06,1.534-1.6" transform="translate(5.366 29.066)" fill="#fcfcfe"/>
+          <path id="Path_78937" data-name="Path 78937" d="M68.474,150.945l15.239-.037-.26,48.687-15.175,0Z" transform="translate(12.799 28.289)" fill="#4bc1fe"/>
+          <path id="Path_78938" data-name="Path 78938" d="M87.661,149.03l.087-10.238,15.391.033.013,38.043-.045,24.979-15.4.015Z" transform="translate(16.433 26.017)" fill="#4bc1fe"/>
+          <path id="Path_78939" data-name="Path 78939" d="M84.065,110.276c2.279-.477,5-.2,7.335-.2l14.6-.008,57.087,0c-.236,1.094-.365,1.984-1.4,2.615l-38.389,21.3c-1.053-.593-1.723-1.1-2.991-.7a7.2,7.2,0,0,0-1.537.906l-.855.5c-6.78-3.552-13.272-7.952-19.84-11.9-3.473-2.085-8.514-4.31-11.366-7.08.183-1.155.578-2.193-.2-3.22Z" transform="translate(15.759 20.619)" fill="#252499"/>
+          <path id="Path_78940" data-name="Path 78940" d="M146.191,134.576l.222-4.91a100.167,100.167,0,0,1,15.5-.04l.018,13.133a44.548,44.548,0,0,1-.191,6.867l.248.652-.09,14.829-.069,12.662-.043,25.813-15.475.019-.031-24.973.156-43.175Z" transform="translate(27.404 24.246)" fill="#828bf6"/>
+          <path id="Path_78941" data-name="Path 78941" d="M26.558,141.6l6.982-5.523a5.729,5.729,0,0,0,2.522.9c1.553.037,1.829-.49,2.938-1.48,2.181-.55,5.488.673,7.695,1.195l12.733,2.839c1.121,1.658,1.565,2.424,3.465,3.112a3.608,3.608,0,0,0,2.7-1.2c.962-1.309.777-1.89.526-3.387L94.257,116.69a7.467,7.467,0,0,0,4.16-.686l.262-.16c3.471,1.944,6.8,4.381,10.216,6.454l17.538,10.383c.686.427,3.3,1.782,3.647,2.342.366.584.312,1.623.669,2.221a9.426,9.426,0,0,0,1.452,1.348,4.486,4.486,0,0,0,3.532-.328,5.453,5.453,0,0,0,1.2-3.483,8.857,8.857,0,0,1,.8,2.3l32.925.029.242.878-.156,43.174-7.8-.015-.01,24.985L147.28,206.1l-.066-25.172c-2.065-.717-4.727-.391-6.915-.35-.815.887-.685,2.033-.8,3.209l-.034-5.726.055-10.378-.165-3.258c-1.214-.85-2.72-.6-4.188-.631-3.61-.062-7.3-.084-10.9.144L124.2,181.17h-7.563l-.013-38.043-15.391-.033-.087,10.238-85.443-1.3c.773-.748,1.888-2.476,2.829-2.833,1.9-.724,2.71-3.292,4.348-3.915,1.419-.54,2.687-2.155,3.51-3.422Z" transform="translate(2.944 21.716)" fill="#252499"/>
+          <path id="Path_78942" data-name="Path 78942" d="M118.5,133.726l32.925.029.242.876-33.394-.093Z" transform="translate(22.171 25.068)" fill="#4a4abf"/>
+          <path id="Path_78943" data-name="Path 78943" d="M126.547,162.442,126.532,150c0-1.329-.29-3.517.037-4.737a5.906,5.906,0,0,1,.8-.933c4.472-.949,10.074-.3,14.681-.255.794,1.9.215,5.985.207,8.13l-.072,23.692-.011,24.985-15.651-.025-.066-25.172.267-.914c-.564-3.9-.167-8.364-.179-12.332" transform="translate(23.697 26.96)" fill="#d3d4fd"/>
+          <path id="Path_78944" data-name="Path 78944" d="M8.889,5.376c1.506-.477,3.661-.233,5.249-.239L25.81,5.124l47.5-.044,102.2-.059,28.5,0c4.138,0,9.039-.488,13.1.173a5.683,5.683,0,0,1,3.339,2.685,4.216,4.216,0,0,1,.563,2.059l.037,21.934-.056,43.994L220.95,99.8c-.011,3.181.5,7.3-.309,10.343-.507,1.892-2.207,2.681-3.784,3.56-4.782.442-9.81.119-14.621.121l-28.043.007-88.92.039-52.822.011H18.493a48.451,48.451,0,0,1-7.759-.167c-2.831-.476-4.25-2.375-5.781-4.574L5.03,26.265l.056-11.694c.007-1.871-.216-4.135.359-5.934.531-1.661,2-2.508,3.445-3.262" transform="translate(0.929 0.91)" fill="#fcfcfe"/>
+          <path id="Path_78945" data-name="Path 78945" d="M15.277,14.476l.3-.063c1.216-.123,2.2-.274,3.167.5l.123,2.61c-1.19,1.066-1.924.781-3.466.762-.6-1.171-.255-2.542-.121-3.807" transform="translate(2.822 2.683)" fill="#0b0a77"/>
+          <path id="Path_78946" data-name="Path 78946" d="M41.564,14.476a9.322,9.322,0,0,1,3.48,0,7.094,7.094,0,0,1,.082,3.479,6.537,6.537,0,0,1-3.648,0,9.248,9.248,0,0,1,.085-3.479" transform="translate(7.751 2.683)" fill="#0b0a77"/>
+          <path id="Path_78947" data-name="Path 78947" d="M32.676,14.486l.394-.1a4.792,4.792,0,0,1,3.252.313,7.315,7.315,0,0,1-.261,3.37c-1.246.095-2.489.382-3.58-.337a8.869,8.869,0,0,1,.195-3.25" transform="translate(6.075 2.673)" fill="#0b0a77"/>
+          <path id="Path_78948" data-name="Path 78948" d="M23.853,14.49a7.8,7.8,0,0,1,3.964,0,9.61,9.61,0,0,1-.12,3.59,9.869,9.869,0,0,1-3.7.066,6.73,6.73,0,0,1-.148-3.656" transform="translate(4.438 2.668)" fill="#0b0a77"/>
+          <path id="Path_78964" data-name="Path 78964" d="M31.868,43.84a22.37,22.37,0,0,1,4.78-7.456c6.323-6.815,14.6-9.743,23.7-10.105l.013,9.547c-6.468.262-12.024,2.331-16.487,7.2L40.3,47.742Z" transform="translate(5.974 4.926)" fill="#3b19eb"/>
+        </g>
+      </g>
+      <g id="Group_56625" data-name="Group 56625" transform="translate(122.374 76.761)">
+        <g id="Group_56624" data-name="Group 56624" clip-path="url(#clip-path-27)">
+          <rect id="Rectangle_23244" data-name="Rectangle 23244" width="24.25" height="23.541" transform="matrix(0.968, -0.251, 0.251, 0.968, -4.961, 1.201)" fill="#d5de47"/>
+        </g>
+      </g>
+      <g id="Group_56630" data-name="Group 56630" transform="translate(157.374 76.761)">
+        <g id="Group_56624-2" data-name="Group 56624" clip-path="url(#clip-path-27)">
+          <rect id="Rectangle_23244-2" data-name="Rectangle 23244" width="24.25" height="23.541" transform="matrix(0.968, -0.251, 0.251, 0.968, -4.961, 1.201)" fill="#d5de47"/>
+        </g>
+      </g>
+      <g id="Group_56632" data-name="Group 56632" transform="translate(191.374 76.761)">
+        <g id="Group_56624-3" data-name="Group 56624" clip-path="url(#clip-path-27)">
+          <rect id="Rectangle_23244-3" data-name="Rectangle 23244" width="24.25" height="23.541" transform="matrix(0.968, -0.251, 0.251, 0.968, -4.961, 1.201)" fill="#d5de47"/>
+        </g>
+      </g>
+      <g id="Group_56629" data-name="Group 56629" transform="translate(122.374 35.761)">
+        <g id="Group_56624-4" data-name="Group 56624" clip-path="url(#clip-path-27)">
+          <rect id="Rectangle_23244-4" data-name="Rectangle 23244" width="24.25" height="23.541" transform="matrix(0.968, -0.251, 0.251, 0.968, -4.961, 1.201)" fill="#d5de47"/>
+        </g>
+      </g>
+      <g id="Group_56631" data-name="Group 56631" transform="translate(157.374 35.761)">
+        <g id="Group_56624-5" data-name="Group 56624" clip-path="url(#clip-path-27)">
+          <rect id="Rectangle_23244-5" data-name="Rectangle 23244" width="24.25" height="23.541" transform="matrix(0.968, -0.251, 0.251, 0.968, -4.961, 1.201)" fill="#d5de47"/>
+        </g>
+      </g>
+      <g id="Group_56633" data-name="Group 56633" transform="translate(191.374 35.761)">
+        <g id="Group_56624-6" data-name="Group 56624" clip-path="url(#clip-path-27)">
+          <rect id="Rectangle_23244-6" data-name="Rectangle 23244" width="24.25" height="23.541" transform="matrix(0.968, -0.251, 0.251, 0.968, -4.961, 1.201)" fill="#d5de47"/>
+        </g>
+      </g>
+      <g id="Group_56627" data-name="Group 56627">
+        <g id="Group_56626" data-name="Group 56626" clip-path="url(#clip-path-26)">
+          <path id="Path_78966" data-name="Path 78966" d="M76.261,57.577c2.906.042,7.914-.454,10.49.723-3.518,9.926-8.557,17.826-18.382,22.514A30.988,30.988,0,0,1,54.924,83.67l.084-10.121a21.443,21.443,0,0,0,8.939-1.908c6.247-2.861,9.994-7.766,12.314-14.064" transform="translate(10.296 10.78)" fill="#707070"/>
+          <path id="Path_78967" data-name="Path 78967" d="M55.851,26.279c8.639.582,17.017,3.645,22.838,10.285A32.775,32.775,0,0,1,87.1,61.219a13.983,13.983,0,0,1-.525,2.934c-2.576-1.177-7.583-.682-10.489-.722l.484-2.137c.939-5.342-1.04-11.732-4.177-16.1-4.169-5.8-9.691-8.224-16.531-9.368Z" transform="translate(10.47 4.926)" fill="#ecedfc"/>
+          <path id="Path_78968" data-name="Path 78968" d="M32.435,41.068l8.427,3.9c-2.749,6.529-3.134,12.512-.372,19.194A19.661,19.661,0,0,0,51.228,74.647,39.3,39.3,0,0,0,59.9,76.631l-.083,10.121c-5.349-.293-9.873-1.153-14.6-3.726-7.1-3.862-12.961-10.466-15.171-18.325-2.088-7.426-1.552-16.864,2.392-23.633" transform="translate(5.407 7.698)" fill="#ecedfc"/>
+          <path id="Path_78969" data-name="Path 78969" d="M39.321,46.235l3.58-4.719c4.462-4.866,10.017-6.935,16.485-7.2,6.84,1.144,12.361,3.562,16.531,9.368,3.137,4.367,5.117,10.757,4.177,16.1l-.484,2.136c-2.32,6.3-6.068,11.2-12.314,14.064A21.452,21.452,0,0,1,58.357,77.9a39.266,39.266,0,0,1-8.67-1.984A19.671,19.671,0,0,1,38.949,65.429c-2.76-6.682-2.377-12.665.372-19.194" transform="translate(6.947 6.433)" fill="#fcfcfe"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_56979" data-name="Group 56979" transform="translate(23113 11311.961)">
+      <path id="Path_79175" data-name="Path 79175" d="M11.187,5.639H3M8.913,2V3.819M5.274,2V3.819M5.183,11.1H9a3.39,3.39,0,0,0,1.438-.149,1.364,1.364,0,0,0,.6-.6,3.39,3.39,0,0,0,.149-1.438V5.093a3.39,3.39,0,0,0-.149-1.438,1.364,1.364,0,0,0-.6-.6A3.39,3.39,0,0,0,9,2.91H5.183a3.39,3.39,0,0,0-1.438.149,1.364,1.364,0,0,0-.6.6A3.39,3.39,0,0,0,3,5.093v3.82a3.39,3.39,0,0,0,.149,1.438,1.364,1.364,0,0,0,.6.6A3.39,3.39,0,0,0,5.183,11.1Z" transform="translate(-22412 -8674)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect id="Rectangle_23441" data-name="Rectangle 23441" width="8" height="6" rx="2" transform="translate(-22409 -8668.83)" fill="#09090b"/>
+    </g>
+  </g>
+</svg>
